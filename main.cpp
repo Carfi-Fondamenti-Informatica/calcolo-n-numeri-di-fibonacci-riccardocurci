@@ -15,7 +15,7 @@ int main() {
        x3=x1+x2;
        x1=x2;
        x2=x3;
-       cout<<"c"<<endl;
+       cout<<"x3"<<endl;
        }
 }       
    return 0;
