@@ -9,7 +9,7 @@ int main() {
       cout<<"errore"<< endl;
       }else{
       cout<<"1"<<endl;
-      for(int i=0;i<=n-2;i++)
+      for(int i=0;i>=n-2;i++)
       {
        cout<<"c"<<endl;
        c=a+b;
