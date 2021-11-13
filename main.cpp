@@ -2,7 +2,8 @@
 using namespace std;
 
 int main() {
-   int a=1,b=1;
+   int n=0 a=1,b=1;
+   cin>>n;
    cout<<a<<endl;
    cout<<b<<endl;
   
