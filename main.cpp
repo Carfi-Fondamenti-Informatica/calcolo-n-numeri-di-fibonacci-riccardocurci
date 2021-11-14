@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-    int n=0,a=1,b=1,c=a+b;
+    int n=0,a=0,b=1,c=a+b;
     cin>>n;
     if(n<2){
     cout<<"errore"<< endl;
