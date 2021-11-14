@@ -7,12 +7,13 @@ int main(){
     if(n<2){
     cout<<"errore"<< endl;
     }else{
-            cout<<"1"<<endl;
+            cout<<"a"<<"b"<<endl;
+     }
             for(int i=0;i<=n;i++){
+            c=a+b;
             cout<<"c"<<endl;
             a=b;
-            b=c;
-            c=a+b;
+            b=c;  
         }
     return 0;
   }
